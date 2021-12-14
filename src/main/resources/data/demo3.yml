@@ -1,0 +1,5 @@
+- url: "http://cms-api-test.jiaoyoushow.com/marketManager/marketChannelCategory.add"
+  vvToken: "250c9953410c650df98d8a583846cb00"
+  classCode: "s006"
+  classDesc: "s006"
+  className: "s006"
